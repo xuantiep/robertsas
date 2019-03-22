@@ -1,0 +1,40 @@
+url: https://supremebeing.amsterdam
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'work'
+    values:
+      layout: 'work'
+  - scope:
+      path: ''
+      type: 'crafts'
+    values:
+      layout: 'craft'
+
+permalink: /blog/:title/
+
+collections:
+  work:
+    output: true
+    permalink: /work/:path/
+  crafts:
+    output: true
+    permalink: /crafts/:path/
+
+skills:
+  - web-design
+  - branding
+  - online-marketing
+  - social-media
+  - graphic-design
+  - other

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body class="page" id="top">
+    {% include header.html %}
+    
+  <br /><br /><br /><br /><br /><br />
+    
+    <div class="container">
+        <div class="row">
+            <div class="content" style="text-align: center; max-width: 600px; margin: 0 auto;">
+                <h1>{{ page.title }}</h1><br /><br />
+                {{ content }}
+            </div>
+        </div>
+
+    </div>
+
+    {% include footer.html %}
+  </body>
+
+</html>

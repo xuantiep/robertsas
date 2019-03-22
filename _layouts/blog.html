@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="blog" id="top">
+  {% include header.html %}
+
+    <div class="container" id="blog">
+        <div class="row text-center">
+            <div class="col-xs-6 text-right">
+                <div class="vertline red category" style="top: 0;"></div>
+                <span class="h3">Blog</span>
+            </div>    		
+            <div class="col-xs-6">
+                <div class="button-group filters-button-group">
+                <button class="button is-checked" data-filter="*">show all</button>
+                {% for skill in site.skills %}<button class="button" data-filter=".{{ skill | replace: '/', '' }}">{{ skill | replace: '-', ' ' }}</button>{% endfor %}
+                </div>
+            </div>    		
+    	</div>
+
+    <div class="row grid">
+      {% assign sitework = site.posts %} {% for work in sitework %}
+      <div class="col-xs-12 col-md-6 item{% for skill in work.skills %} {{ skill | replace: '/', '' }}{% endfor %}">
+        <a href="{{ work.url }}">
+          <div class="blogthumb" style="background: url(//images.weserv.nl/?url=supremebeing.amsterdam{{ work.image }}&w=900) center center no-repeat; background-size: cover;">
+            <div class="overlay"><img src="/img/pijltje.svg" style="height: 30px;" /></div>
+          </div>
+          <h3>{{ work.title }}</h3>
+          <span>{{ work.date | date: "%d %b %Y" }} - {% for skill in work.skills %}{% if forloop.index0 != 0 %},{% endif %} {{ skill | replace: '-', ' ' }}{% endfor %}</span>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+
+  {% include footer.html %}
+
+</body>
+
+</html>

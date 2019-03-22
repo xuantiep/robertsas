@@ -1,0 +1,20 @@
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    {% for item in page.headers %}
+    <div class="item{% if forloop.index == 1 %} active{% endif %}" style="background: url(//images.weserv.nl/?url=supremebeing.amsterdam{{ item.image }}&w=2000) center bottom; background-size: cover;" data-interval="{{ item.duration }}">
+      <div class="overlay">
+        <div class="vertline red"><div>0{{ forloop.index }}_3</div></div>
+        {{ item.description }}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

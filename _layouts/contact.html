@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body class="contact" id="top">
+    {% include header.html %}
+    <div class="container" id="contactcontainer">
+        <div class="row">           
+            <div style="text-align: center; max-width: 400px; margin: 0 auto; padding: 0 15px;">
+                <h1 class="notred">{{ page.title }}</h1>
+            </div>
+        </div>
+        <div class="row" style="padding: 25px 0 50px;">
+            <div class="col-md-6 text-right"><div class="vertline" style="top: -7px;"></div><img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ page.images[0].image }}&w=900" /></div>
+            <div class="col-md-6 text-right hidden-xs hidden-sm"><img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ page.images[1].image }}&w=900" /></div>
+            <div class="col-md-6 text-right visible-xs visible-sm" style="padding-right: 60px;">
+                <h2 class="red">Max van Hoof</h2>
+                <div class="contentdiv">{{ page.max_html }}</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="segment darker">
+        <div class="container" id="contact">
+        <div class="row">
+            <div class="col-md-6 text-right hidden-xs hidden-sm" style="padding-right: 60px;">
+                <div class="vertline red contact"></div>
+                <h2 class="red">Max van Hoof</h2>
+                <div class="contentdiv">{{ page.max_html }}</div>
+            </div>
+            <div class="col-md-6 text-left visible-xs visible-sm"><img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ page.images[1].image }}&w=900" /></div>
+            <div class="col-md-6 text-left" style="padding-left: 60px;">
+                <div class="vertline red contact"></div>
+                <h2 class="red">Robert Sas</h2>
+                <div class="contentdiv">{{ page.robert_html }}</div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+
+    <div class="segment darker" style="min-height: 100px;">
+        <div class="container">
+                <div class="text-center"><a href="{{ site.data.settings.googlemaps_url }}" class="small"><span>See our location on Google</span><br />
+                <img src="/img/arrow-right.svg" style="width: 30px;" /><img src="/img/arrow-right-red.svg" style="width: 30px; opacity: 0;" /></a></div>
+        </div>
+    </div>
+
+    <div class="segment">
+        <div class="container" id="address">
+        <div class="row">
+            <div class="col-md-5 text-right">
+                <p style="float: none; display: inline-block; position: relative; left: 25px;">Tweede Atjehstraat 24h<br />
+                1094 LG Amsterdam<br />
+                The Netherlands</p>
+            </div>
+            <div class="col-md-7">
+              <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    {% for item in page.slider_images %}
+                    <div class="item{% if forloop.index == 1 %} active{% endif %}">
+                    <img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ item.image }}&w=900" />
+                    </div>
+                    {% endfor %}
+                </div>
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev" style="opacity: 1; background: none;">
+                    <img src="/img/arrow-left-red-transparent.svg" style="width: 30px; display: inline-block; position: absolute; top: 50%; margin-top: -15px; margin-left: -15px;" />
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next" style="opacity: 1; background: none;">
+                    <img src="/img/arrow-right-red-transparent.svg" style="width: 30px; display: inline-block; position: absolute; top: 50%; margin-top: -15px; margin-left: -15px;" />
+                    <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+
+    {% include footer.html %}
+  </body>
+
+</html>
