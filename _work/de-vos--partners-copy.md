@@ -5,7 +5,7 @@ client: Coral Reef Care
 skills:
   - graphic-design
   - web-design
-image: /img/slidercrc.jpg
+image: /img/algemeen-craft.jpg
 thumbnail: /img/1.png
 images:
   - image: /uploads/logo de vos en partners.jpg
