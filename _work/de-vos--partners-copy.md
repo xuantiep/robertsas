@@ -8,11 +8,8 @@ skills:
 image: /img/algemeen-craft.jpg
 thumbnail: /img/1.png
 images:
-  - image: /uploads/logo de vos en partners.jpg
-  - image: /uploads/project.jpg
-  - image: /uploads/visitekaartjes.jpg
-  - image: /uploads/briefpapier.jpg
   - image: /uploads/projectc.jpg
+  - image: /uploads/logo de vos en partners.jpg
 videos:
   - youtube_id:
 ---
