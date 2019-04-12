@@ -9,7 +9,7 @@ image: /img/algemeen-craft.jpg
 thumbnail: /img/1.png
 images:
   - image: /uploads/logo de vos en partners.jpg
-  - image: /uploads/website-de-vos-en-partners.jpg
+  - image: /uploads/project.jpg
   - image: /uploads/visitekaartjes.jpg
   - image: /uploads/briefpapier.jpg
 videos:
