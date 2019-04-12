@@ -12,6 +12,7 @@ images:
   - image: /uploads/project.jpg
   - image: /uploads/visitekaartjes.jpg
   - image: /uploads/briefpapier.jpg
+  - image: /uploads/projectc.jpg
 videos:
   - youtube_id:
 ---
