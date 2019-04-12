@@ -6,7 +6,7 @@ skills:
   - graphic-design
   - web-design
 image: /img/slider1.jpg
-thumbnail: /img/tile.jpg
+thumbnail: /img/1.png
 images:
   - image: /uploads/logo de vos en partners.jpg
   - image: /uploads/website-de-vos-en-partners.jpg
