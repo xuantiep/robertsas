@@ -1,11 +1,11 @@
 ---
-title: De vos & Partners
-date: 2017-08-01 00:00:00
-client: De vos & Partners
+title: Coral Reef Care
+date: 2019-03-01 00:00:00
+client: Coral Reef Care
 skills:
   - graphic-design
   - web-design
-image: /img/devosenpartners1.jpg
+image: /img/slider1.jpg
 thumbnail: /img/tile.jpg
 images:
   - image: /uploads/logo de vos en partners.jpg
