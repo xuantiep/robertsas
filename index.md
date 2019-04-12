@@ -1,8 +1,7 @@
 ---
 layout: landing
-title: We will find our madness within your company
+title:
 ---
-
 
 Supreme Being 21.3 Amsterdam
 
