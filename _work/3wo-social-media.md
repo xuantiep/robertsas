@@ -7,7 +7,7 @@ skills:
   - social-media
   - other
 image: /uploads/naamloo2s-1-2.jpg
-thumbnail: /img/thumbnail-3WO.jpg
+thumbnail: /uploads/flat750x075f-pad750x1000f8f8f8-u1.jpg
 images:
   - image: /uploads/project•overzicht.jpg
   - image: /uploads/project•workflow.jpg
