@@ -1,7 +1,7 @@
 <div id="myCarousel" class="carousel slide {% if page.layout == 'post' %}single{% endif %}" data-ride="carousel">
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active" style="{% if page.image %}background: url('//images.weserv.nl/?url=supremebeing.amsterdam{{ page.image }}&w=2000') center center;{% else %}background: url('//images.weserv.nl/?url=supremebeing.amsterdam/img/header2.jpg&w=2000') center center;{% endif %} background-size: cover;">
+    <div class="item active" style="{% if page.image %}background: url('//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}{{ page.image }}&w=2000') center center;{% else %}background: url('//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}/img/header2.jpg&w=2000') center center;{% endif %} background-size: cover;">
       {% if page.layout != 'post' %}
       <div class="overlay">
         {% if page.header_text %}<div class="vertline red"><div>01_3</div></div>{% endif %}

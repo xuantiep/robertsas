@@ -24,7 +24,7 @@
             {% assign sitecrafts = site.crafts | sort: 'title' %}
             {% for craft in sitecrafts %}
                 <div class="col-xs-12 col-sm-6 col-md-4 item{% for skill in craft.skills %} {{ skill | replace: '/', '' }}{% endfor %}"><a href="{{ craft.url }}">
-                    <div class="workthumb" style="background: url(//images.weserv.nl/?url=supremebeing.amsterdam{{ craft.thumbnail }}&w=900) center center no-repeat; background-size: cover;">
+                    <div class="workthumb" style="background: url(//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}{{ craft.thumbnail }}&w=900) center center no-repeat; background-size: cover;">
                         <div class="overlay"><img src="/img/pijltje.svg" style="height: 30px;" /></div>
                     </div>
                     <h3>{{ craft.title }}</h3>

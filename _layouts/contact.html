@@ -12,8 +12,8 @@
             </div>
         </div>
         <div class="row" style="padding: 25px 0 50px;">
-            <div class="col-md-6 text-right"><div class="vertline" style="top: -7px;"></div><img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ page.images[0].image }}&w=900" /></div>
-            <div class="col-md-6 text-right hidden-xs hidden-sm"><img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ page.images[1].image }}&w=900" /></div>
+            <div class="col-md-6 text-right"><div class="vertline" style="top: -7px;"></div><img src="//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}{{ page.images[0].image }}&w=900" /></div>
+            <div class="col-md-6 text-right hidden-xs hidden-sm"><img src="//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}{{ page.images[1].image }}&w=900" /></div>
             <div class="col-md-6 text-right visible-xs visible-sm" style="padding-right: 60px;">
                 <h2 class="red"></h2>
                 <div class="contentdiv">{{ page.max_html }}</div>
@@ -29,7 +29,7 @@
                 <h2 class="red"></h2>
                 <div class="contentdiv">{{ page.max_html }}</div>
             </div>
-            <div class="col-md-6 text-left visible-xs visible-sm"><img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ page.images[1].image }}&w=900" /></div>
+            <div class="col-md-6 text-left visible-xs visible-sm"><img src="//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}{{ page.images[1].image }}&w=900" /></div>
             <div class="col-md-6 text-left" style="padding-left: 60px;">
                 <div class="vertline red contact"></div>
                 <h2 class="red">Robert Sas</h2>
@@ -62,7 +62,7 @@
                 <div class="carousel-inner" role="listbox">
                     {% for item in page.slider_images %}
                     <div class="item{% if forloop.index == 1 %} active{% endif %}">
-                    <img src="//images.weserv.nl/?url=supremebeing.amsterdam{{ item.image }}&w=900" />
+                    <img src="//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}{{ item.image }}&w=900" />
                     </div>
                     {% endfor %}
                 </div>

@@ -24,7 +24,7 @@
       {% assign sitework = site.posts %} {% for work in sitework %}
       <div class="col-xs-12 col-md-6 item{% for skill in work.skills %} {{ skill | replace: '/', '' }}{% endfor %}">
         <a href="{{ work.url }}">
-          <div class="blogthumb" style="background: url(//images.weserv.nl/?url=supremebeing.amsterdam{{ work.image }}&w=900) center center no-repeat; background-size: cover;">
+          <div class="blogthumb" style="background: url(//images.weserv.nl/?url={{ site.url | replace: 'https://','' }}{{ work.image }}&w=900) center center no-repeat; background-size: cover;">
             <div class="overlay"><img src="/img/pijltje.svg" style="height: 30px;" /></div>
           </div>
           <h3>{{ work.title }}</h3>
