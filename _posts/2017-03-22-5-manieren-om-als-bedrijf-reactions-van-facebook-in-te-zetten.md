@@ -71,6 +71,6 @@ Stimuleer je community dit te doen door je medewerkers als eerste te laten reage
 
 ###### **-x-**
 
-###### **Supreme Being**
+###### **Robert Sas**
 
 ###### **Amsterdam**

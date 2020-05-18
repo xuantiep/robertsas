@@ -98,6 +98,6 @@ We zullen deze blog blijven aanvullen met websites waar je gratis stockbeelden v
 
 -x-
 
-#### Supreme Being
+#### Robert Sas
 
 #### Amsterdam

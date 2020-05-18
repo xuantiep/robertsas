@@ -59,6 +59,6 @@ Wil je meer informatie over een e-mail marketing campagne met Mailchimp? Neem da
 
 **-x-**
 
-### Supreme Being
+### Robert Sas
 
 ### Amsterdam

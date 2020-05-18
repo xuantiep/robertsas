@@ -23,6 +23,6 @@ Ook kunnen we natuurlijk alle verschillende mogelijkheden van Markteting Automat
 
 **-x-**
 
-**Supreme Being**
+**Robert Sas**
 
 **Amsterdam**

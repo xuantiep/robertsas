@@ -23,7 +23,7 @@ Don’t hesitate to swing by.
 
 Do you want to come over and have a beer? Please do so. We’d happy to pour you in!
 
-Supreme Being 21.3 Amsterdam
+Robert Sas 21.3 Amsterdam
 
 | Online marketing |
 

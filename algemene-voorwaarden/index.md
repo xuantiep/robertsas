@@ -5,7 +5,7 @@ title: Algemene voorwaarden
 
 **Artikel 1. Overeenkomst van opdracht, offerte en bevestiging**
 
-1.1 &nbsp; &nbsp; &nbsp; Supreme Being, hierna te noemen: “opdrachtnemer”,&nbsp; is een vennootschap onder firma en staat ingeschreven bij de Kamer van Koophandel te Amsterdam onder nummer 60782218.
+1.1 &nbsp; &nbsp; &nbsp; Robert Sas, hierna te noemen: “opdrachtnemer”,&nbsp; is een vennootschap onder firma en staat ingeschreven bij de Kamer van Koophandel te Amsterdam onder nummer 60782218.
 
 1.2 &nbsp; &nbsp; &nbsp; In deze algemene voorwaarden wordt onder “opdrachtgever” verstaan: de natuurlijke persoon of rechtspersoon met wie opdrachtnemer een overeenkomst van opdracht tot het leveren van diensten en/of producten sluit.
 

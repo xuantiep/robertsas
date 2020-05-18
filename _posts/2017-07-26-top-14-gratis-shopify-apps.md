@@ -132,6 +132,6 @@ We sluiten de lijst af met een iet wat ondergewaardeerde gratis Shopify app. Met
 
 **-x-**
 
-**Supreme Being**
+**Robert Sas**
 
 Amsterdam

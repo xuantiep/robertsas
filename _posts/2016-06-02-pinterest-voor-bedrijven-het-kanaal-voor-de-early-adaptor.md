@@ -118,6 +118,6 @@ Hieronder een paar toffe voorbeelden die je kunt volgen en waar je veel van kunt
 
 **-x-**
 
-### Supreme Being
+### Robert Sas
 
 ### Amsterdam

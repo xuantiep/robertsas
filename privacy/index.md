@@ -3,7 +3,7 @@ title: Privacy policy
 ---
 
 
-Privacybeleid Supreme Being
+Privacybeleid Robert Sas
 
 Versie 0.1
 
@@ -11,25 +11,25 @@ Versie 0.1
 
 Wij zijn er van bewust dat u vertrouwen stelt in ons. Wij zien het dan ook als onze verantwoordelijkheid om uw privacy te beschermen. Op deze pagina laten we u weten welke gegevens we verzamelen als u onze website gebruikt, waarom we deze gegevens verzamelen en hoe we hiermee uw gebruikservaring verbeteren. Zo snapt u precies hoe wij werken.
 
-Dit privacybeleid is van toepassing op de diensten van Supreme Being. U dient zich ervan bewust te zijn dat Supreme Being niet verantwoordelijk is voor het privacybeleid van andere sites en bronnen. Door gebruik te maken van deze website geeft u aan het privacy beleid te accepteren.
+Dit privacybeleid is van toepassing op de diensten van Robert Sas. U dient zich ervan bewust te zijn dat Robert Sas niet verantwoordelijk is voor het privacybeleid van andere sites en bronnen. Door gebruik te maken van deze website geeft u aan het privacy beleid te accepteren.
 
-Supreme Being respecteert de privacy van alle gebruikers van haar site en draagt er zorg voor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld.
+Robert Sas respecteert de privacy van alle gebruikers van haar site en draagt er zorg voor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld.
 
 **Ons gebruik van verzamelde gegevens**
 
 **Gebruik van onze diensten**
 
-Wanneer u zich aanmeldt voor een van onze diensten vragen we u om persoonsgegevens te verstrekken. Deze gegevens worden gebruikt om de dienst uit te kunnen voeren. De gegevens worden opgeslagen op eigen beveiligde servers van Supreme Being of die van een derde partij. Wij zullen deze gegevens niet combineren met andere persoonlijke gegevens waarover wij beschikken.
+Wanneer u zich aanmeldt voor een van onze diensten vragen we u om persoonsgegevens te verstrekken. Deze gegevens worden gebruikt om de dienst uit te kunnen voeren. De gegevens worden opgeslagen op eigen beveiligde servers van Robert Sas of die van een derde partij. Wij zullen deze gegevens niet combineren met andere persoonlijke gegevens waarover wij beschikken.
 
 **Communicatie**
 
-Wanneer u e-mail of andere berichten naar ons verzendt, is het mogelijk dat we die berichten bewaren. Soms vragen wij u naar uw persoonlijke gegevens die voor de desbetreffende situatie relevant zijn. Dit maakt het mogelijk uw vragen te verwerken en uw verzoeken te beantwoorden. De gegevens worden opgeslagen op eigen beveiligde servers van Supreme Being of die van een derde partij. Wij zullen deze gegevens niet combineren met andere persoonlijke gegevens waarover wij beschikken.
+Wanneer u e-mail of andere berichten naar ons verzendt, is het mogelijk dat we die berichten bewaren. Soms vragen wij u naar uw persoonlijke gegevens die voor de desbetreffende situatie relevant zijn. Dit maakt het mogelijk uw vragen te verwerken en uw verzoeken te beantwoorden. De gegevens worden opgeslagen op eigen beveiligde servers van Robert Sas of die van een derde partij. Wij zullen deze gegevens niet combineren met andere persoonlijke gegevens waarover wij beschikken.
 
 **Cookies**
 
 Wij verzamelen gegevens voor onderzoek om zo een beter inzicht te krijgen in onze klanten, zodat wij onze diensten hierop kunnen afstemmen.
 
-Deze website maakt gebruik van “cookies” (tekstbestandtjes die op uw computer worden geplaatst) om de website te helpen analyseren hoe gebruikers de site gebruiken. De door het cookie gegenereerde informatie over uw gebruik van de website kan worden overgebracht naar eigen beveiligde servers van Supreme Being of die van een derde partij. Wij gebruiken deze informatie om bij te houden hoe u de website gebruikt, om rapporten over de website-activiteit op te stellen en andere diensten aan te bieden met betrekking tot website-activiteit en internetgebruik.
+Deze website maakt gebruik van “cookies” (tekstbestandtjes die op uw computer worden geplaatst) om de website te helpen analyseren hoe gebruikers de site gebruiken. De door het cookie gegenereerde informatie over uw gebruik van de website kan worden overgebracht naar eigen beveiligde servers van Robert Sas of die van een derde partij. Wij gebruiken deze informatie om bij te houden hoe u de website gebruikt, om rapporten over de website-activiteit op te stellen en andere diensten aan te bieden met betrekking tot website-activiteit en internetgebruik.
 
 **Doeleinden**
 
@@ -63,7 +63,7 @@ De meeste browsers zijn standaard ingesteld om cookies te accepteren, maar u kun
 
 We controleren regelmatig of we aan dit privacybeleid voldoen. Als u vragen heeft over dit privacybeleid, kunt u contact met ons opnemen:
 
-**Supreme Being**
+**Robert Sas**
 
 **Tweede Atjehstraat 24h**
 

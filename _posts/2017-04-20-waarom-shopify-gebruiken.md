@@ -56,7 +56,7 @@ Mocht je interesse hebben of meer informatie over een Shopify webshop willen nee
 
 #### -x-
 
-#### Supreme Being
+#### Robert Sas
 
 #### Amsterdam
 

@@ -14,7 +14,7 @@ videos:
   - youtube_id:
 ---
 
-Mama Dough at the Beukenplein in Amsterdam created a delicious, fresh, white beer with a hint of basil and orange in collaboration with brewery ‘Gebrouwen door vrouwen’. They asked Supreme Being to think of a name and a label. The name of the beer had to link to the name of the place. While Robert was standing in the line of the register at a supermarket, he heard Italian ladies guessing the price of all their groceries combined. When the grand total showed at the display he heard one of the ladies say ‘Mama Mia!’. Since then he only listened to ABBA and the tagline ‘How can I resist you' was born.
+Mama Dough at the Beukenplein in Amsterdam created a delicious, fresh, white beer with a hint of basil and orange in collaboration with brewery ‘Gebrouwen door vrouwen’. They asked Robert Sas to think of a name and a label. The name of the beer had to link to the name of the place. While Robert was standing in the line of the register at a supermarket, he heard Italian ladies guessing the price of all their groceries combined. When the grand total showed at the display he heard one of the ladies say ‘Mama Mia!’. Since then he only listened to ABBA and the tagline ‘How can I resist you' was born.
 
 So don’t wait, try Mama Mia and enjoy the Italian food at Mama Dough.
 

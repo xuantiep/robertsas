@@ -59,6 +59,6 @@ Volgende keer in *Social media – Video Content* bespreken we wat voor video’
 
 ### -x-
 
-#### Supreme Being
+#### Robert Sas
 
 #### Amsterdam
