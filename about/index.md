@@ -32,7 +32,7 @@ headers:
     duration: 6000
 images:
   - image: /uploads/rob.jpg
-  - image: /uploads/slider-1.jpg
+  - image: /img/craft-grafisch.jpg
   - image: /uploads/why.jpg
 ---
 
