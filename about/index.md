@@ -31,7 +31,7 @@ headers:
       WITH YOUR BRAND. FASCINATE YOUR AUDIENCE, LET THE BRAND SPEAK FOR ITSELF.
     duration: 6000
 images:
-  - image: /uploads/marijn-birthday.png
+  - image: /uploads/rob.jpg
   - image: /uploads/slider-1.jpg
   - image: /uploads/why.jpg
 ---
