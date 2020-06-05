@@ -2,7 +2,7 @@
 title: 'Who, What & Why'
 layout: who
 headers:
-  - image: /uploads/DSC-TW1119_01.jpg
+  - image: /uploads/slider-2.jpg
     description: >-
       IMAGINE HAVING AN ADDITIONAL, YET POWERFUL TEAM OF PEOPLE. PEOPLE WHO
       RECOGNIZE THE TRUE VALUE OF YOUR BUSINESS AND KNOW HOW TO USE THE RIGHT
