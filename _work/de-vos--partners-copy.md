@@ -9,7 +9,7 @@ image: /img/slider1.jpg
 thumbnail: /uploads/laagtumbnailcoralreefcare.jpg
 images:
   - image: /uploads/laagtumbnail-coral2.jpg
-  - image: /uploads/projectc.jpg
+  - image: /uploads/coralreefcare website.jpg
 videos:
   - youtube_id:
 ---
