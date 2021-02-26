@@ -8,7 +8,7 @@ skills:
 image: /img/slider1.jpg
 thumbnail: /uploads/laagtumbnailcoralreefcare.jpg
 images:
-  - image: /uploads/logo de vos en partners.jpg
+  - image: /uploads/projectc.jpg
   - image: /uploads/projectc.jpg
 videos:
   - youtube_id:
